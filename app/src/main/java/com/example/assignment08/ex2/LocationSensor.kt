@@ -58,9 +58,7 @@ class LocationSensor(
         ) == PermissionChecker.PERMISSION_GRANTED
     }
     
-    /**
-     * Start tracking location updates
-     */
+
     @SuppressLint("MissingPermission")
     fun startTracking() {
         if (!hasLocationPermission()) {

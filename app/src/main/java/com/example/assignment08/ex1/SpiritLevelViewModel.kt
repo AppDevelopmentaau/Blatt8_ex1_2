@@ -28,7 +28,7 @@ class SpiritLevelViewModel(
     private var isVibratedForLevel = false
     private var isSoundPlayedForLevel = false
     private var lastVibrationTime: Long = 0
-    private val vibrationRateLimit = 500 // Minimum time between vibrations (ms)
+    private val vibrationRateLimit = 500 // Minimum time between vibrations
       // Setup sound for level feedback
     private val soundPool: SoundPool
     private val levelSoundId: Int
