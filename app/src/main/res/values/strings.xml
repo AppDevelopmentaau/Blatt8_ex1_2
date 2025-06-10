@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spirit Level</string>
+    <string name="x_axis">X-Axis: %.1f°</string>
+    <string name="y_axis">Y-Axis: %.1f°</string>
+    <string name="horizontal_mode">Horizontal</string>
+    <string name="vertical_mode">Vertical</string>
+    <string name="perfectly_level">Surface is level!</string>
+    <string name="sound_on">Sound On</string>
+    <string name="sound_off">Sound Off</string>
+</resources>
